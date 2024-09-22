@@ -1,0 +1,4 @@
+{
+    "cmake.configureOnOpen": false,
+	"Lua.workspace.library": ["tools/lua-bindings/olua/addons"],
+}
